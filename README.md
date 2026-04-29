@@ -34,6 +34,10 @@ issue `#5` (CRUD API implementation).
 - Additional directories (frontend, gis, deployment) will be filled as the
   broader initiative matures.
 
+Backend-specific onboarding now lives in [`backend/README.md`](backend/README.md)
+and the centralized endpoint reference is documented in
+[`docs/API_REFERENCE.md`](docs/API_REFERENCE.md).
+
 ## Backend Service (Issue #5 Deliverable)
 
 ### Prerequisites
